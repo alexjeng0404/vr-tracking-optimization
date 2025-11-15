@@ -5,3 +5,5 @@ results/
 *.log
 
 temp.txt
+
+data/
